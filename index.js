@@ -169,7 +169,7 @@ export const artists = [
       "wikipedia": "http://en.wikipedia.org/wiki/Francisco_Goya",
       "paintings": 291
     },
-    {
+    { 
       "id": 17,
       "name": "Frida Kahlo",
       "years": "1907 - 1954",
